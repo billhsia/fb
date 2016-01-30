@@ -38,3 +38,5 @@ Documentation is available at https://facebook-sdk.readthedocs.org/en/latest/.
 Have a question? Need help? Visit the library's `Google Group`_.
 
 .. _Google Group: https://groups.google.com/group/pythonforfacebook
+
+by jerry 
